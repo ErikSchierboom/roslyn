@@ -73,6 +73,8 @@ namespace Microsoft.CodeAnalysis.CSharp
         SlashToken = 8221,
         /// <summary>Represents <c>..</c> token.</summary>
         DotDotToken = 8222,
+        /// <summary>Represents <c>|&gt;</c> token.</summary>
+        BarGreaterThanToken = 8222,
 
         // additional xml tokens
         /// <summary>Represents <c>/&gt;</c> token.</summary>
